@@ -58,7 +58,7 @@ global.fgsc = 'UwU'
 global.fgyt = 'jsxnakjsnx'
 global.fgpyp = 'hello'
 global.fglog = 'https://images7.alphacoders.com/105/1054068.png' 
-global.dbase = 'mongodb+srv://saini:saini@cluster0.nvvxmoz.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://saini:saini @cluster0.rmgsrm0.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
