@@ -7,9 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
-  [''] 
+  ['918005077049', 'Sairo', true],
+  ['916394869538', 'Arm', true], 
+  ['916392780934', 'Ryzen', true],
+  ['']
 ] //Number of owners
 
 global.mods = ['917605902011','32460248586'] 
@@ -47,16 +48,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'Raiden'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'Shadow' 
+global.author = 'Shadow' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fgsc = 'UwU' 
+global.fgyt = ''
+global.fgpyp = 'hello'
+global.fglog = 'https://images7.alphacoders.com/105/1054068.png' 
 global.dbase = 'mongodb+srv://saini:saini@cluster0.nvvxmoz.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
