@@ -13,8 +13,8 @@ global.owner = [
   ['']
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['918005077049','916394869538'] 
+global.prems = ['918005077049', '916394869538', '916392780934']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -52,10 +52,10 @@ global.botname = 'Raiden'
 global.premium = 'true'
 global.packname = 'Shadow' 
 global.author = 'Shadow' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.igfg = 'lmao lmao' 
+global.dygp = 'lmao lmao'
 global.fgsc = 'UwU' 
-global.fgyt = ''
+global.fgyt = 'jsxnakjsnx'
 global.fgpyp = 'hello'
 global.fglog = 'https://images7.alphacoders.com/105/1054068.png' 
 global.dbase = 'mongodb+srv://saini:saini@cluster0.nvvxmoz.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
